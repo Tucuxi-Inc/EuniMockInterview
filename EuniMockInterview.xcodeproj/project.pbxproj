@@ -78,6 +78,7 @@
 				88DA8A792D9F65CF0093E6C7 /* EuniMockInterview */,
 				88DA8A892D9F65D00093E6C7 /* EuniMockInterviewTests */,
 				88DA8A932D9F65D00093E6C7 /* EuniMockInterviewUITests */,
+				88DA8B692DA098320093E6C7 /* Frameworks */,
 				88DA8A782D9F65CF0093E6C7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +91,13 @@
 				88DA8A902D9F65D00093E6C7 /* EuniMockInterviewUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		88DA8B692DA098320093E6C7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +203,8 @@
 			);
 			mainGroup = 88DA8A6E2D9F65CF0093E6C7;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 88DA8A782D9F65CF0093E6C7 /* Products */;
 			projectDirPath = "";
